@@ -1,24 +1,3 @@
-# RackNerd IPv6 VPS 完整指南：怎么申请免费 IPv6、支持哪些机房、哪个套餐最值得选？（附所有套餐价格对比表）
-
-Wait — the language is English (the official site is in English). Let me re-confirm: `{lang} = English`. All content must be in English.
-
----
-
-# RackNerd IPv6 VPS: How to Get Free IPv6, Which Locations Support It, and Which Plan Actually Makes Sense
-
-# Writing the article now:
-
-
-# RackNerd IPv6 VPS: Free Native IPv6 on Budget KVM Hosting — Which Plans Support It, Which Locations Have It, and How to Set It Up
-
-
-Let me now write the full article in English.
-
----
-
-**Response language: English** (官网默认语言为英文)
-
----
 
 # RackNerd IPv6 VPS: Free Native IPv6, Supported Locations, All Plans Compared — And How to Actually Get It Activated
 
